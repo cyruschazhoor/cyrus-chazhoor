@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Cyrus Chazhoor | Senior Business Development Representative (BDR) | Outbound SDR</title>
+
+  <!-- SEO -->
+  <meta name="description" content="Cyrus Chazhoor — Senior Business Development Representative (BDR) / Outbound SDR. Remote B2B sales, SMB & Mid-Market. Proven quota attainment 120%+ at TELUS and 150%+ in regulated B2B." />
+  <meta name="robots" content="index,follow" />
+  <link rel="canonical" href="https://YOUR-DOMAIN-HERE/" />
+
+  <!-- Social preview (works even without LinkedIn) -->
+  <meta property="og:title" content="Cyrus Chazhoor | Senior BDR / Outbound SDR" />
+  <meta property="og:description" content="Remote B2B Sales • Pipeline Generation • SMB & Mid-Market • 120%+ quota attainment (TELUS) • 150%+ regulated B2B" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://YOUR-DOMAIN-HERE/" />
+
+  <link rel="stylesheet" href="styles.css" />
+
+  <!-- Structured data (helps SEO) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Cyrus Chazhoor",
+    "jobTitle": "Senior Business Development Representative (BDR) / Outbound SDR",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Windsor",
+      "addressRegion": "Ontario",
+      "addressCountry": "CA"
+    },
+    "knowsAbout": [
+      "Business Development",
+      "Sales Development",
+      "Outbound Sales",
+      "Pipeline Generation",
+      "Lead Qualification",
+      "Cold Calling",
+      "Discovery Calls",
+      "SMB Sales",
+      "Mid-Market Sales",
+      "Remote Sales"
+    ]
+  }
+  </script>
+</head>
+
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container header-grid">
+      <div class="identity">
+        <h1>Cyrus Chazhoor</h1>
+        <p class="headline">
+          <strong>Senior Business Development Representative (BDR)</strong> • Outbound SDR • Remote (Canada & US)
+        </p>
+
+        <p class="summary">
+          Outbound-focused BDR with <strong>4+ years</strong> of remote <strong>B2B sales</strong> experience generating
+          <strong>net-new pipeline</strong> through <strong>cold calling</strong>, <strong>email outreach</strong>, and
+          <strong>LinkedIn-style prospecting</strong> (without relying on LinkedIn). Proven track record of
+          <strong>120%–150%+ quota attainment</strong>, <strong>self-sourced leads</strong>, and conversion to
+          <strong>sales-qualified leads (SQLs)</strong> across telecom, regulated B2B, and SaaS.
+        </p>
+
+        <div class="contact">
+          <div><span class="label">Location</span> Windsor, ON (Remote)</div>
+          <div><span class="label">Email</span> <a href="mailto:YOUR_EMAIL_HERE">YOUR_EMAIL_HERE</a></div>
+          <div><span class="label">Phone</span> <a href="tel:YOUR_PHONE_HERE">YOUR_PHONE_HERE</a></div>
+          <div><span class="label">Website</span> <span class="mono">https://YOUR-DOMAIN-HERE/</span></div>
+        </div>
+
+        <div class="actions">
+          <!-- Optional: add resume.pdf in the same folder to enable this -->
+          <a class="btn primary" href="resume.pdf" target="_blank" rel="noopener">Download PDF</a>
+          <a class="btn" href="#experience">View Experience</a>
+          <a class="btn" href="#keywords">BDR Keywords</a>
+        </div>
+      </div>
+
+      <aside class="card highlights" aria-label="Performance Highlights">
+        <h2>Performance Highlights</h2>
+        <ul>
+          <li><strong>TELUS:</strong> 119–122% average attainment (2022–2025)</li>
+          <li><strong>Regulated B2B (AGCO):</strong> 140–151%+ attainment</li>
+          <li><strong>SaaS (APAC market):</strong> 130–137%+ attainment</li>
+          <li><strong>SMB & Mid-Market:</strong> 15–50+ employee accounts</li>
+          <li><strong>Motion:</strong> Inbound + outbound with self-generated leads</li>
+        </ul>
+      </aside>
+    </div>
+  </header>
+
+  <main id="main" class="container">
+    <section class="grid two-col">
+      <section class="card">
+        <h2>Core Competencies</h2>
+        <ul class="bullets two">
+          <li>Business Development Representative (BDR)</li>
+          <li>Outbound Sales / Sales Development</li>
+          <li>Pipeline Generation & Management</li>
+          <li>Lead Qualification (SQLs)</li>
+          <li>Cold Calling & Prospecting</li>
+          <li>Email Sequences & Outreach</li>
+          <li>Discovery Calls & Needs Assessment</li>
+          <li>Objection Handling</li>
+          <li>Appointment Setting / Meeting Booking</li>
+          <li>SMB & Mid-Market B2B Sales</li>
+          <li>Quota Attainment & KPI Tracking</li>
+          <li>Remote Sales Execution</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>Tools & Technology</h2>
+        <ul class="bullets">
+          <li><strong>CRM / Outreach:</strong> Zoho (outreach + CRM usage)</li>
+          <li><strong>Sales Management:</strong> QSM (sales management)</li>
+          <li><strong>Collaboration:</strong> Microsoft 365, Google Workspace</li>
+          <li><strong>Team Comms:</strong> Slack</li>
+          <li><strong>Ops / Pipeline:</strong> Jenkins (pipeline tooling exposure)</li>
+        </ul>
+        <p class="note">
+          (If you’ve used Salesforce / HubSpot / Sales Navigator / Outreach / Salesloft, add them here — ATS loves those exact strings.)
+        </p>
+      </section>
+    </section>
+
+    <section id="experience" class="card section">
+      <div class="section-head">
+        <h2>Experience</h2>
+        <p class="section-sub">Remote roles • B2B • SMB & Mid-Market • Outbound pipeline generation</p>
+      </div>
+
+      <article class="role">
+        <div class="role-head">
+          <h3>TELUS — Business Development Representative / Outbound Sales</h3>
+          <div class="role-meta">
+            <span>Remote</span><span class="dot">•</span><span>Sep 2022 – Present</span>
+          </div>
+        </div>
+
+        <p class="role-scope">
+          Sold <strong>Mobility</strong>, <strong>Smart Security & Automation</strong>, <strong>Smart Energy</strong>,
+          <strong>Health Systems</strong>, <strong>Business Internet</strong>, plus <strong>protection plans</strong> to
+          <strong>SMB and Mid-Market</strong> customers (typically <strong>15–50+ employees</strong>).
+        </p>
+
+        <ul class="bullets">
+          <li>Executed <strong>outbound prospecting</strong> (cold calling + email outreach) to generate <strong>self-sourced pipeline</strong> and drive activations.</li>
+          <li>Ran <strong>discovery calls</strong> and <strong>needs assessment</strong> to identify pain points, map solution fit, and progress leads through the <strong>sales funnel</strong>.</li>
+          <li>Qualified inbound and outbound leads into <strong>sales-qualified leads (SQLs)</strong>; booked meetings and maintained clean handoffs and next steps.</li>
+          <li>Maintained accurate <strong>CRM</strong> documentation, activity tracking, and follow-up cadences; monitored <strong>KPIs</strong> including conversion and self-generated leads.</li>
+          <li>Collaborated cross-functionally in a <strong>remote sales</strong> environment using Microsoft/Google tooling to support customer experience and revenue outcomes.</li>
+        </ul>
+
+        <div class="metrics">
+          <div class="metric">
+            <div class="metric-label">2022 Avg</div>
+            <div class="metric-value">119.08%</div>
+            <div class="metric-note">quota attainment</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">2023 Avg</div>
+            <div class="metric-value">120.11%</div>
+            <div class="metric-note">quota attainment</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">2024 Avg</div>
+            <div class="metric-value">121.24%</div>
+            <div class="metric-note">quota attainment</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">2025 Avg</div>
+            <div class="metric-value">121.78%</div>
+            <div class="metric-note">quota attainment</div>
+          </div>
+        </div>
+
+        <p class="tools-line"><strong>Tools:</strong> QSM, Zoho, Microsoft 365, Google Workspace</p>
+      </article>
+
+      <hr class="sep" />
+
+      <article class="role">
+        <div class="role-head">
+          <h3>Private Venture (The Katzmans) — Business Development Representative</h3>
+          <div class="role-meta">
+            <span>Remote</span><span class="dot">•</span><span>Nov 2021 – Aug 2022</span>
+          </div>
+        </div>
+
+        <p class="role-scope">
+          B2B sales for products approved by the <strong>AGCO</strong> (regulated market). Focused on <strong>net-new accounts</strong>,
+          outreach, qualification, and pipeline progression.
+        </p>
+
+        <ul class="bullets">
+          <li>Generated <strong>net-new pipeline</strong> through outbound prospecting and disciplined follow-up; engaged <strong>decision-makers</strong> in SMB accounts.</li>
+          <li>Performed <strong>lead qualification</strong>, discovery, and objection handling to progress prospects to qualified opportunities.</li>
+          <li>Tracked pipeline status and maintained accurate activity notes to support sales execution and reporting.</li>
+        </ul>
+
+        <div class="metrics">
+          <div class="metric">
+            <div class="metric-label">Q4 2021</div>
+            <div class="metric-value">151.48%</div>
+            <div class="metric-note">attainment</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">Q1 2022</div>
+            <div class="metric-value">140.34%</div>
+            <div class="metric-note">attainment</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">Q2 2022</div>
+            <div class="metric-value">148.57%</div>
+            <div class="metric-note">attainment</div>
+          </div>
+        </div>
+
+        <p class="tools-line"><strong>Tools:</strong> Microsoft 365, Google Workspace</p>
+      </article>
+
+      <hr class="sep" />
+
+      <article class="role">
+        <div class="role-head">
+          <h3>RedDot Innovative — Business Development Representative / SaaS Sales</h3>
+          <div class="role-meta">
+            <span>Remote</span><span class="dot">•</span><span>Jan 2021 – Oct 2021</span>
+          </div>
+        </div>
+
+        <p class="role-scope">
+          Outbound B2B SaaS selling to businesses in <strong>Singapore</strong>. Focused on prospecting, qualification,
+          and booking meetings to drive adoption.
+        </p>
+
+        <ul class="bullets">
+          <li>Executed outbound prospecting to create pipeline, qualify leads, and support conversion to meetings and opportunities.</li>
+          <li>Conducted discovery conversations, positioned SaaS value, and documented CRM notes for clean sales funnel progression.</li>
+          <li>Worked in a remote startup environment with tight collaboration and fast iteration on messaging and outreach.</li>
+        </ul>
+
+        <div class="metrics">
+          <div class="metric">
+            <div class="metric-label">Q1 2021</div>
+            <div class="metric-value">130.45%</div>
+            <div class="metric-note">attainment</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">Q2 2021</div>
+            <div class="metric-value">134.00%</div>
+            <div class="metric-note">attainment</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">Q3 2021</div>
+            <div class="metric-value">137.45%</div>
+            <div class="metric-note">attainment</div>
+          </div>
+        </div>
+
+        <p class="tools-line"><strong>Tools:</strong> Jenkins, Slack, Google Workspace</p>
+      </article>
+    </section>
+
+    <section class="grid two-col">
+      <section class="card section" id="education">
+        <h2>Education</h2>
+        <p class="tight">
+          <strong>Bachelor’s Degree — Electronics & Telecommunications</strong><br />
+          Gyan Ganga University of Technology & Sciences
+        </p>
+      </section>
+
+      <section class="card section" id="contact">
+        <h2>Contact</h2>
+        <p class="tight">
+          Email: <a href="mailto:YOUR_EMAIL_HERE">YOUR_EMAIL_HERE</a><br />
+          Phone: <a href="tel:YOUR_PHONE_HERE">YOUR_PHONE_HERE</a><br />
+          Location: Windsor, ON (Remote)<br />
+          Website: <span class="mono">https://YOUR-DOMAIN-HERE/</span>
+        </p>
+        <p class="note">
+          You can use this website link anywhere you’d normally paste a LinkedIn URL.
+        </p>
+      </section>
+    </section>
+
+    <section class="card section" id="keywords">
+      <h2>BDR / SDR Keywords (ATS-Friendly)</h2>
+      <p class="keywords">
+        Business Development Representative, BDR, Sales Development, SDR, Outbound Sales, Outbound Prospecting, Cold Calling,
+        Email Outreach, Email Sequences, Pipeline Generation, Sales Pipeline, Lead Qualification, Discovery Calls, Needs Assessment,
+        Objection Handling, Decision Makers, Appointment Setting, Meeting Booking, Sales Qualified Leads (SQL), B2B Sales,
+        SMB, Mid-Market, Net-New Accounts, Territory Management, Account Targeting, KPI, Conversion Rate, Quota Attainment,
+        CRM, Zoho, Remote Sales, Cross-Functional Collaboration, Sales Funnel
+      </p>
+      <p class="note">
+        (These terms improve search visibility for “BDR”, “SDR”, “Outbound Sales”, “Pipeline Generation”, and related recruiter queries.)
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-row">
+      <p>© <span id="year"></span> Cyrus Chazhoor</p>
+      <p class="muted">Built as a web resume (SEO-friendly) • Clean ATS keywords • Remote B2B Sales</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
