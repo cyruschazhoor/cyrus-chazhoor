@@ -1,67 +1,96 @@
-# Cyrus Chazhoor — Web Resume
+# CybrConsulting AI Lead Generation Tool (Vite + React + Tailwind CSS)
 
-This repository hosts my **personal web-based resume**, built as a clean, SEO-friendly alternative to a traditional PDF or LinkedIn profile.
+A modern, responsive B2B website for **CybrConsulting** with:
+- Semantic sections (Header, About, Project Gallery, Services, Contact, Sign Up)
+- Tailwind CSS styling and responsive layout
+- Signup form UX with email/password + social auth entry points (Google, Facebook, iCloud)
+- Production-ready frontend build using Vite
 
-The site highlights my experience as a **Senior Business Development Representative (BDR) / Outbound SDR**, with a focus on **B2B sales, pipeline generation, and SMB–Mid-Market accounts**.
+## 1) Run locally
 
----
+```bash
+npm install
+npm run dev
+```
 
-## 🌐 Live Website
-👉 **https://YOURUSERNAME.github.io/**  
-*(Replace with your actual GitHub Pages URL)*
+Build for production:
 
----
+```bash
+npm run build
+npm run preview
+```
 
-## 👤 About Me
-I am an outbound-focused **Business Development Representative (BDR)** with **4+ years of remote B2B sales experience** across:
-- Telecom (TELUS)
-- Regulated B2B products (AGCO-approved)
-- SaaS (APAC market)
+## 2) Project structure
 
-I have a consistent track record of **exceeding quota (120%–150%+)**, generating **self-sourced pipeline**, and converting leads into **sales-qualified opportunities (SQLs)**.
+```text
+.
+├─ index.html
+├─ src/
+│  ├─ App.jsx
+│  ├─ index.css
+│  └─ main.jsx
+├─ tailwind.config.js
+├─ postcss.config.js
+├─ vite.config.js
+└─ eslint.config.js
+```
 
----
+## 3) Deploy for free (GitHub + Vercel)
 
-## 🧠 Core Expertise
-- Business Development Representative (BDR)
-- Outbound Sales / Sales Development
-- Pipeline Generation & Management
-- Cold Calling & Email Outreach
-- Lead Qualification (SQLs)
-- Discovery Calls & Objection Handling
-- SMB & Mid-Market B2B Sales
-- Remote Sales Execution
-- CRM & Sales Tools (Zoho, QSM)
+### Step A: Push to GitHub
 
----
+```bash
+git init
+git add .
+git commit -m "Initial CybrConsulting Vite app"
+git branch -M main
+git remote add origin https://github.com/<your-username>/<repo-name>.git
+git push -u origin main
+```
 
-## 🛠️ Tech Stack
-This website is intentionally simple and fast:
-- **HTML5** — semantic, SEO-friendly structure
-- **CSS3** — clean, professional light theme
-- **GitHub Pages** — free, reliable hosting
+### Step B: Deploy with Vercel
 
-No frameworks. No tracking. No clutter.
+1. Sign in to [vercel.com](https://vercel.com) using GitHub.
+2. Click **Add New → Project**.
+3. Import this repository.
+4. Vercel auto-detects Vite settings:
+   - Build Command: `npm run build`
+   - Output Directory: `dist`
+5. Click **Deploy**.
+6. Your free subdomain will look like: `https://<project-name>.vercel.app`.
 
----
+### Step C: Preview deployments
 
-## 📄 Resume Access
-- Web version: displayed directly on the site
-- Optional PDF download (`resume.pdf`) included in the repository
+- Every PR gets an automatic preview URL (enabled by default once GitHub repo is connected).
+- In GitHub PR checks, click the Vercel preview link to validate changes before merge.
 
----
+## 4) Azure + Vercel + GitHub workflow
 
-## 🎯 Purpose of This Site
-- Serve as a **professional substitute for LinkedIn**
-- Provide a **search-engine-friendly resume**
-- Make it easy for recruiters and hiring managers to review my experience quickly
+Use Azure services for backend/AI and Vercel for frontend:
 
----
+1. **Frontend** (this repo): deploy on Vercel.
+2. **AI/Lead scoring API**: host on Azure App Service / Azure Functions.
+3. Store API secrets in Vercel Project Settings → Environment Variables.
+4. In production, call your Azure API from this React app via HTTPS.
 
-## 📬 Contact
-- **Email:** YOUR_EMAIL_HERE  
-- **Location:** Windsor, Ontario (Remote — Canada & US)
+## 5) Connect custom domain (or keep free subdomain)
 
----
+### Option 1: Keep free subdomain
+- Use `https://<project-name>.vercel.app` at no cost.
 
-© Cyrus Chazhoor
+### Option 2: Custom domain
+1. Buy a domain from any registrar.
+2. In Vercel Project → **Settings → Domains**, add your domain.
+3. Add DNS records Vercel requests (typically A/CNAME).
+4. Wait for DNS propagation.
+5. Set your primary domain and enable redirect (`www` ↔ apex).
+
+## 6) Production readiness checklist
+
+- [x] Fast Vite production build
+- [x] Responsive UI with semantic sections
+- [x] Tailwind utility CSS tree-shaking via content config
+- [x] PR preview deployment flow via Vercel + GitHub
+- [ ] Connect signup/social login to a real auth provider (Auth0, Clerk, Firebase, Azure AD B2C)
+- [ ] Connect forms to backend endpoint and add validation + anti-spam
+- [ ] Implement real AI lead scoring API and audit logs
